@@ -22,13 +22,6 @@ I'm a 2nd-year ECE student at **RIT Roorkee** (batch of 2029), focused on embedd
 - 🎯 Goal: Edge AI + Embedded Linux
 - 📫 Reach me: **pravinsharma15k@gmail.com**
 
-### 🚀 Projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| **STM32F4 Test Board** | Custom PCB with STM32F405RGT6, MP2359 buck converter, USB micro-B | KiCad, STM32 |
-| **More coming soon** | Repos will be uploaded here | — |
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -43,13 +36,40 @@ I'm a 2nd-year ECE student at **RIT Roorkee** (batch of 2029), focused on embedd
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Stats
+---
 
+## 📊 GitHub Analytics
+
+### 📈 Contribution Activity Graph
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pravinsharma15k-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinsharma15k-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravinsharma15k-ops&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
+### 📦 Total Repos & ⭐ Stars Got
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pravinsharma15k-ops&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pravinsharma15k-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats (stars, commits, PRs)" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravinsharma15k-ops&theme=tokyonight" alt="Profile details (repos, contributions)" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pravinsharma15k-ops&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+### 🟩 Commit Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/pravinsharma15k-ops" alt="Commit graph" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pravinsharma15k-ops/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pravinsharma15k-ops&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/pravinsharma15k-ops/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pravinsharma15k-ops&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
 </p>
