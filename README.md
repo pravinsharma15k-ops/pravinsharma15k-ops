@@ -7,28 +7,44 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/pravin-sharma-ece/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/iw07mr1atl"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:pravinsharma15k@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pravinsharma15k-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pravinsharma15k-ops?label=Followers&style=flat&logo=github&color=0969da" alt="Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- B.Tech student in Electronics and Communication Engineering (ECE).
-- Learning bare-metal programming with STM32 microcontrollers.
-- Exploring ARM Cortex-M, Embedded C/C++, and peripheral programming.
-- Interested in PCB design and hardware-software integration.
-- Exploring Arduino, Linux, and ROS 2 robotics.
-- Practicing Data Structures and Algorithms.
+I'm a 2nd-year B.Tech ECE student at **RIT Roorkee**, focused on embedded systems and hardware-software integration. I learn by building: from schematic and PCB design to bare-metal firmware.
 
-## 🌱 Currently Learning
+**Currently learning**
 
-- STM32 and ARM Cortex-M microcontrollers
-- Bare-metal programming and embedded firmware
-- GPIO and peripheral register programming
+- STM32 and ARM Cortex-M (register-level programming, GPIO, peripherals)
 - PCB schematic design and layout using KiCad
-- Digital electronics and Verilog
-- Linux, Git, and development tools
+- Embedded C/C++, Rust, Verilog
+- ROS 2 robotics, Linux, Git
+- Data Structures and Algorithms (LeetCode)
+
+**Goal:** Edge AI + Embedded Linux
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **HTK-AI-PLUG** | Smart plug with relay control, RTC, display and buzzer. Schematic done, PCB layout and testing next. | ESP32-S3, KiCad | Coming soon |
+| **STM32 Bare-Metal** | Register-level programming on STM32 Nucleo: GPIO configuration and LED control. | STM32, ARM Cortex-M, Embedded C | Coming soon |
+| **ROS 2 Fundamentals** | ROS 2 nodes, packages and robotics development workflow. | ROS 2, Python, C++ | [Repo](https://github.com/pravinsharma15k-ops/ros2_fundamentals_examples) |
+| **myCobot Robot** | Robotics development and ROS 2 integration with myCobot. | ROS 2, Robotics | [Repo](https://github.com/pravinsharma15k-ops/myCobot_Robot) |
+| **DSA Problem Solving** | Algorithms, recursion, arrays and data structures practice. | C++, DSA | [Repo](https://github.com/pravinsharma15k-ops/DSA_Problem_solving) |
+| **Monitor** | Embedded systems and monitoring project. | Embedded Systems | [Repo](https://github.com/pravinsharma15k-ops/Monitor) |
 
 ---
 
@@ -51,25 +67,10 @@
 
 ---
 
-## 🎯 What I'm Working On
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FOCUS-Embedded%20Systems-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/LEARNING-Bare--Metal%20C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Bare-Metal C" />
-  <img src="https://img.shields.io/badge/DESIGN-PCB%20%7C%20KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB Design" />
-</p>
-
-- Developing my STM32 bare-metal programming skills.
-- Improving PCB design and hardware debugging skills.
-- Building embedded systems and robotics projects.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpravinsharma15k-ops&query=%24.public_repos&label=Public%20Repositories&logo=github&color=2ea44f" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/followers/pravinsharma15k-ops?label=Followers&style=flat&logo=github&color=0969da" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/pravinsharma15k-ops/ros2_fundamentals_examples?label=ROS2%20Repo%20Stars&style=flat&logo=github&color=e3b341" alt="ROS 2 Repository Stars" />
 </p>
 
@@ -78,89 +79,23 @@
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinsharma15k-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
----
-
-## 📈 Contribution Activity Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravinsharma15k-ops&theme=tokyonight" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravinsharma15k-ops&theme=tokyonight" width="100%" alt="Contribution Activity" />
 </p>
 
----
-
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinsharma15k-ops&theme=tokyonight" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pravinsharma15k-ops&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
----
-
-## 📉 Commit Graph
+### 📉 Commit Graph
 
 <p align="center">
   <a href="https://github.com/pravinsharma15k-ops">
     <img src="https://ghchart.rshah.org/58A6FF/pravinsharma15k-ops" width="100%" alt="GitHub Commit Graph" />
-  </a>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 1. STM32 Bare-Metal Programming
-
-Learning low-level programming on STM32 Nucleo microcontrollers, including register-level programming, GPIO configuration, and LED control.
-
-**Technologies:** STM32, ARM Cortex-M, Embedded C
-
-### 2. HTK-AI-PLUG — Smart Embedded Device
-
-Designing a smart plug using ESP32-S3, relay control, RTC, display, buzzer, and a power supply. The schematic is completed; PCB layout and testing are the next steps.
-
-**Technologies:** ESP32-S3, KiCad, PCB Design, Embedded Systems
-
-### 3. ROS 2 Fundamentals Examples
-
-Learning ROS 2 nodes, packages, robotics concepts, and development workflows.
-
-[View Repository](https://github.com/pravinsharma15k-ops/ros2_fundamentals_examples)
-
-**Technologies:** ROS 2, Python, C++, Linux
-
-### 4. myCobot Robot
-
-Exploring robotics development and ROS 2 integration.
-
-[View Repository](https://github.com/pravinsharma15k-ops/myCobot_Robot)
-
-### 5. DSA Problem Solving
-
-Practicing algorithms, recursion, arrays, and other data structures to improve problem-solving skills.
-
-[View Repository](https://github.com/pravinsharma15k-ops/DSA_Problem_solving)
-
-**Technologies:** C++, Data Structures, Algorithms
-
-### 6. Monitor Project
-
-Embedded systems and monitoring project.
-
-[View Repository](https://github.com/pravinsharma15k-ops/Monitor)
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pravin-sharma-ece/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/iw07mr1atl">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:pravinsharma15k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
