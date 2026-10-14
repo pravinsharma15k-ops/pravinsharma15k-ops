@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Pravin Kumar Sharma</h1>
 
 <h3 align="center">B.Tech ECE Student | Embedded Systems | STM32 | PCB Design</h3>
@@ -101,7 +100,7 @@
 
 <p align="center">
   <a href="https://github.com/pravinsharma15k-ops">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravinsharma15k-ops&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Commit Activity Graph" />
+    <img src="https://ghchart.rshah.org/58A6FF/pravinsharma15k-ops" width="100%" alt="GitHub Commit Graph" />
   </a>
 </p>
 
