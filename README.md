@@ -1,93 +1,55 @@
-# Hi, I'm Pravin Kumar Sharma
-
-<h3 align="center">B.Tech ECE Student | Embedded Systems | STM32 | PCB Design</h3>
+<h1 align="center">Hi 👋, I'm Pravin Kumar Sharma</h1>
+<h3 align="center">B.Tech ECE Student | Embedded Systems | STM32 | Arduino | C/C++ | Linux</h3>
 
 <p align="center">
-  Interested in embedded systems, microcontrollers, firmware development, and hardware-software integration.
+  <img src="https://komarev.com/ghpvc/?username=pravinsharma15k-ops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pravinsharma15k-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/pravin-sharma-ece"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/iw07mr1atl"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:pravinsharma15k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-- Pursuing B.Tech in Electronics and Communication Engineering (ECE).
-- Learning bare-metal programming with STM32 microcontrollers.
-- Exploring embedded C/C++, ARM Cortex-M, and peripheral programming.
-- Learning PCB design and hardware development using KiCad.
-- Working with Arduino, Linux, and embedded development tools.
-- Practicing problem-solving and Data Structures & Algorithms.
+I'm a 2nd-year ECE student at **RIT Roorkee** (batch of 2029), focused on embedded systems. I like building hardware and firmware together, from PCB design to bare-metal code.
 
-## Current Learning
+- 🔭 Currently learning: **ARM Cortex-M (TM4C123), PCB design (KiCad), C++, Rust, Verilog**
+- 🧠 Practicing DSA on LeetCode
+- 🎯 Goal: Edge AI + Embedded Linux
+- 📫 Reach me: **pravinsharma15k@gmail.com**
 
-- STM32 and ARM Cortex-M microcontrollers
-- Embedded C and peripheral drivers
-- PCB schematic design and layout
-- Digital electronics and Verilog
-- Linux and development tools
+### 🚀 Projects
 
-## Technical Skills
+| Project | What it is | Tech |
+|---|---|---|
+| **STM32F4 Test Board** | Custom PCB with STM32F405RGT6, MP2359 buck converter, USB micro-B | KiCad, STM32 |
+| **More coming soon** | Repos will be uploaded here | — |
 
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust" alt="Programming Languages" />
-</p>
-
-**Hardware & Embedded Systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware Tools" />
-</p>
-
-- STM32 Nucleo and ARM Cortex-M
-- Bare-metal programming
-- GPIO and microcontroller peripherals
-- PCB design with KiCad
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode" alt="Development Tools" />
-</p>
-
-## Featured Projects
-
-- **STM32 Bare-Metal Programming** — Exploring low-level microcontroller programming and peripheral control.
-- **Embedded Systems Projects** — Building projects using Arduino, sensors, and microcontrollers.
-- **ROS 2 Fundamentals** — Practicing robotics concepts and ROS 2 development.
-- **DSA Problem Solving** — Improving programming and problem-solving skills.
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pravinsharma15k-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinsharma15k-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pravinsharma15k-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## Connect With Me
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pravin-sharma-ece/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/iw07mr1atl" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-  <a href="mailto:pravinsharma15k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+### 📊 GitHub Stats
 
 <p align="center">
-  Learning, building, and improving one project at a time.
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pravinsharma15k-ops&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinsharma15k-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pravinsharma15k-ops&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
