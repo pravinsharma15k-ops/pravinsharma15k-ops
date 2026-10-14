@@ -39,12 +39,12 @@ I'm a 2nd-year B.Tech ECE student at **RIT Roorkee**, focused on embedded system
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
+| **BareMetal_STM32** | Bare-metal Embedded C on STM32: startup code, linker scripts, GPIO, memory mapping, Makefile builds, flashing and debugging with GDB/OpenOCD. | STM32, C, Makefile, GDB | [Repo](https://github.com/pravinsharma15k-ops/BareMetal_STM32) |
+| **STM32F4-Test-Board** | STM32F405-based test board designed in KiCad 10, with buck converter, USB, SWD, I2C and UART. | KiCad, STM32F405, PCB Design | [Repo](https://github.com/pravinsharma15k-ops/STM32F4-Test-Board) |
+| **myCobot_Robot** | ROS 2 project to simulate and visualize the MyCobot robotic arm using URDF, RViz and ROS 2 tools. | ROS 2, URDF, RViz, CMake | [Repo](https://github.com/pravinsharma15k-ops/myCobot_Robot) |
+| **ros2_fundamentals_examples** | Basic examples demonstrating ROS 2 concepts. | ROS 2, Python, C++ | [Repo](https://github.com/pravinsharma15k-ops/ros2_fundamentals_examples) |
+| **DSA_Problem_solving** | Data Structures and Algorithms solutions in C++: arrays, strings, sorting, recursion, linked lists, stacks, queues, trees, graphs. | C++, DSA | [Repo](https://github.com/pravinsharma15k-ops/DSA_Problem_solving) |
 | **HTK-AI-PLUG** | Smart plug with relay control, RTC, display and buzzer. Schematic done, PCB layout and testing next. | ESP32-S3, KiCad | Coming soon |
-| **STM32 Bare-Metal** | Register-level programming on STM32 Nucleo: GPIO configuration and LED control. | STM32, ARM Cortex-M, Embedded C | Coming soon |
-| **ROS 2 Fundamentals** | ROS 2 nodes, packages and robotics development workflow. | ROS 2, Python, C++ | [Repo](https://github.com/pravinsharma15k-ops/ros2_fundamentals_examples) |
-| **myCobot Robot** | Robotics development and ROS 2 integration with myCobot. | ROS 2, Robotics | [Repo](https://github.com/pravinsharma15k-ops/myCobot_Robot) |
-| **DSA Problem Solving** | Algorithms, recursion, arrays and data structures practice. | C++, DSA | [Repo](https://github.com/pravinsharma15k-ops/DSA_Problem_solving) |
-| **Monitor** | Embedded systems and monitoring project. | Embedded Systems | [Repo](https://github.com/pravinsharma15k-ops/Monitor) |
 
 ---
 
@@ -71,7 +71,7 @@ I'm a 2nd-year B.Tech ECE student at **RIT Roorkee**, focused on embedded system
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpravinsharma15k-ops&query=%24.public_repos&label=Public%20Repositories&logo=github&color=2ea44f" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/stars/pravinsharma15k-ops/ros2_fundamentals_examples?label=ROS2%20Repo%20Stars&style=flat&logo=github&color=e3b341" alt="ROS 2 Repository Stars" />
+  <img src="https://img.shields.io/github/stars/pravinsharma15k-ops/BareMetal_STM32?label=BareMetal%20Repo%20Stars&style=flat&logo=github&color=e3b341" alt="BareMetal Repository Stars" />
 </p>
 
 <p align="center">
